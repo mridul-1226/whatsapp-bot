@@ -1,0 +1,10 @@
+Django==5.2.5
+djangorestframework==3.16.1
+google-generativeai
+twilio
+requests
+imageio-ffmpeg
+SpeechRecognition
+python-dotenv
+gtts
+cloudinary
